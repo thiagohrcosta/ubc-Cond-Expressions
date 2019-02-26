@@ -27,6 +27,8 @@ What you'll learn:
 
 <hr>
 
+## MODULE 2: HOW TO DESIGN DATA - COND EXPRESSIONS
+
 In the first lesson from **module 2: How to Design Data - Cond Expressions**, we learn how to use the the multi-armed conditional (three in this case), testing some code and checking if it was writen correctly. 
 
 The code given was:
