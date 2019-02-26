@@ -25,7 +25,6 @@ What you'll learn:
 4. How to simplify the structure of your program using common patterns
 5. Recognize and represent more complicated information
 
-<hr>
 
 ## MODULE 2: HOW TO DESIGN DATA - COND EXPRESSIONS
 
