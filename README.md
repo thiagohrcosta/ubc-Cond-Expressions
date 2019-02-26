@@ -52,7 +52,7 @@ If we check the code above, we will see that are some wrong multi-armed conditio
 
 ## THE CORRECT CODE 
 
-> (define (aspect-ratio img)
->   (cond [(> (image-height img) (image-width img))"tall"]
->         [(= (image-height img)(image-width img)) "square"]
->         [else "wide"]))
+> (define (aspect-ratio img)<br>
+>   (cond [(> (image-height img) (image-width img))"tall"]<br>
+>         [(= (image-height img)(image-width img)) "square"]<br>
+>         [else "wide"]))<br>
