@@ -1,4 +1,4 @@
-##HOW TO CODE: SIMPLE DATA: UNIVERSITY OF BRITISH COLUMBIA (UBCx - Edx)
+## HOW TO CODE: SIMPLE DATA: UNIVERSITY OF BRITISH COLUMBIA (UBCx - Edx)
 
 How To Code: Simple Data, is the first 7 week module from the **MICROMASTER - Software Developer** from **University of British Columbia**
 
