@@ -14,8 +14,7 @@
           "zero"
           "negative")))
 
-; QUESTION: Build a cond expression equivalent to the above nested if expressions
-; by dragging each of the parts below into the proper place in the cond.
+; QUESTION: Build a cond expression equivalent to the above nested if expressions:
 
 ; ANSWER: 
 (define (mag x)
