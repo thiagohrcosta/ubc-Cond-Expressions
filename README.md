@@ -8,7 +8,7 @@ How To Code: Simple Data, is the first 7 week module from the  [**MICROMASTER - 
 
 This course takes a unique approach, focusing on a systematic programming method rather than restricting learners to any one specific programming language. This practical approach will allow you to apply your skills and creativity more widely and to program well in any language.
 
-The course is part of the Software Development MicroMasters Program and presents a core design method with a focus on numbers, strings, images and lists.
+The course is part of the [**Software Development MicroMasters Program**](https://www.edx.org/micromasters/software-development) and presents a core design method with a focus on numbers, strings, images and lists.
 
 You will learn techniques to:
 
