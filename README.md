@@ -31,7 +31,7 @@ In the first lesson from **module 2: How to Design Data - Cond Expressions**, we
 
 The code given was:
 
-#  (define (aspect-ratio img)'
+'  (define (aspect-ratio img)'
 '      (if (> (image-height img) (image-width img))'
 '          "tall"'
 '          (if (= (image-height img)(image-width img))'
@@ -43,7 +43,7 @@ If we check the code above, we will see that are some wrong multi-armed conditio
 
 ## HOW TO FOMR COND EXPRESSIONS:
 
-> (cond[<Expression1> <Expression2>]
+> (cond [< Expression1 > < Expression2 > ] <br>
 >     ...)
 
 1. The *Expression1* is the question;
