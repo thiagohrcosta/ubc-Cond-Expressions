@@ -29,14 +29,15 @@ What you'll learn:
 
 In the first lesson from **module 2: How to Design Data - Cond Expressions**, we learn how to use the the multi-armed conditional (three in this case), testing some code and checking if it was writen correctly. 
 
-> The code given was:
->  (define (aspect-ratio img)
->      (if (> (image-height img) (image-width img))
->          "tall"
->          (if (= (image-height img)(image-width img))
->              "square"
->              "wide")))
->             
+The code given was:
+
+'  (define (aspect-ratio img)'
+'      (if (> (image-height img) (image-width img))'
+'          "tall"'
+'          (if (= (image-height img)(image-width img))'
+'              "square"'
+'              "wide")))'
+'             '
 
 If we check the code above, we will see that are some wrong multi-armed conditional, because the second IF will be only use IF the first conditional was false, but this ins´t what we want. We want a multi-armed conditional with three conditionals. With that in mind was made some corrections in the code.
 
