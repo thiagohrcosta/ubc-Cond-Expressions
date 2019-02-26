@@ -1,0 +1,24 @@
+;; Number -> String
+;; determine if a number is negative, positive or zero
+(check-expect (mag 2) "positive")
+(check-expect (mag -7) "negative")
+(check-expect (mag 0) "zero")
+
+; (define (mag x) "zero") ; stub
+
+#;
+(define (mag x)
+  (if (> x 0)
+      "positive"
+      (if (= x 0)
+          "zero"
+          "negative")))
+
+; QUESTION: Build a cond expression equivalent to the above nested if expressions
+; by dragging each of the parts below into the proper place in the cond.
+
+; ANSWER: 
+(define (mag x)
+  (cond [ (> x 0) "positive"]
+        [ (= x 0) "zero"]
+        [ else "negative"]))
